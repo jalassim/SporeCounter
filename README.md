@@ -18,4 +18,4 @@ JAR files Requirements:
 - rsyntaxtextarea-3.0.0-SNAPSHOT.jar
 - slf4j-api-1.7.2.jar
 
-Script Author: Julien Alassimone   
+Author: Julien Alassimone   
